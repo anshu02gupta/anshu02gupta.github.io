@@ -1,4 +1,0 @@
-AuthType Basic  
-AuthName "restricted area"  
-AuthUserFile //home/anshu/public_html/GLOW-AO/.htpasswd  
-require valid-user
