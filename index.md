@@ -3,7 +3,6 @@
 layout: home
 ---
 
-## BIOGRAPHY 
 ![Some Title](../images/profile02.jpg){:style="float:right; margin-right:7px; margin-top:7px;" :height="200px" width="200px"}
 <span style="color:black; font-family:Sans; font-size: 1em;">
 My current research interest is in understanding what role environment plays in the formation and evolution of galaxies. I use both
