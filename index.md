@@ -5,7 +5,7 @@ layout: home
 
 ![Some Title](../images/profile01.jpg){:style="float:right;  margin-left:7px; margin-right:7px; margin-top:7px;" :height="200px" width="200px"}
 
-I am a postdoctoral fellow at the [University of New South Wales](https://www.physics.unsw.edu.au/staff/anshu-gupta). 
+I am a postdoctoral fellow at the [University of New South Wales](https://www.physics.unsw.edu.au/staff/anshu-gupta), Sydney. 
 My research focuses on the understanding the details of galaxy formation and evolution, 
 with a special focus on how they build different elements. 
 I think a deep understanding of physical conditions affecting the production and distribution of 
