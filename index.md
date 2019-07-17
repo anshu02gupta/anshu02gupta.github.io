@@ -21,4 +21,5 @@ My other passion is baking. A [multiseed sourdough bread](https://anshu02gupta.g
 from my recent baking adventures.   
 
 
-### Please click here for full [CV](../agupta.pdf). 
+### Please click here for full [CV](../agupta.pdf).
+#### Click here for my [google scholar](https://scholar.google.com/citations?user=-XkpmPwAAAAJ&hl=en) profile. 
