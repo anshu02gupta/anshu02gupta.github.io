@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hobbies"
-permalink: /others/
+permalink: /hobbies/
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Outreach"
-permalink: /teaching/
+permalink: /outreach/
 ---
 **1. [Astronomer in residence, Uluru](../astronomer_in_residence.pdf)** <br/>
 
