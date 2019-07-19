@@ -11,8 +11,8 @@ I think a deep understanding of physical conditions affecting the production and
 chemicals in galaxies is crucial for solving the age-old mystery of our existence on earth. 
 
 Using optical and near-infrared spectroscopic observations of galaxies from some of the largest telescopes in the world
-such as Keck in Hawaii and VLTs in Chile, I look for signature of evolution in the kinematic, chemical and other inter-stellar
-medium properties of galaxies over the past 12 billion years. My work establishs a direct connection between observations 
+such as Keck in Hawaii and VLTs in Chile, I look for the signature of evolution in the kinematic, chemical and other inter-stellar
+medium properties of galaxies over the past 12 billion years. My work establishes a direct connection between observations 
 and, the state-of-the-art hydrodynamical simulations and theoretical models, which is 
 essential to fully understand the physics of galaxy formation and evolution.
 By integrating observational techniques with computer simulations, my research is pushing
