@@ -19,9 +19,9 @@ By integrating observational techniques with computer simulations, my research i
 the boundary of observational astronomy.
 
 I am currently a postdoctoral fellow at the University of New South Wales ([UNSW](https://www.physics.unsw.edu.au/staff/anshu-gupta)), Sydney. 
-I did my graduate studies (2018) at Australian National University (ANU), Canberra with Prof. Lisa Kewley and Dr. Tiantian Yuan. 
-I grew up in India, where I did a dual bachelors and masters degree in Physics at 
-one of the highly prestigious schools for undergraduate science education, Indian Institute of Science Education and Research, Mohali.  
+I did my graduate studies (2018) at Australian National University ([ANU](https://anu.edu.au/)), Canberra with Prof. Lisa Kewley and Dr. Tiantian Yuan. 
+I grew up in India, where I did a dual bachelors and masters degree in Physics at
+[Indian Institute of Science Education and Research, Mohali](http://www.iisermohali.ac.in/).  
 
 My other passion is baking. A [multiseed sourdough bread](https://anshu02gupta.github.io/hobbies/) is the highlight 
 from my recent baking adventures.   
