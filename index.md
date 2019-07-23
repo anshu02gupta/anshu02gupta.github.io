@@ -3,7 +3,7 @@
 layout: home
 ---
 
-![Some Title](../images/profile01.jpg){:style="float:right;  margin-left:7px; margin-right:7px; margin-top:7px;" :height="200px" width="200px"}
+![Some Title](/images/profile01.jpg){:style="float:right;  margin-left:7px; margin-right:7px; margin-top:7px;" :height="200px" width="200px"}
 
 I am an astrophysicist interested in understanding the origin and evolution of 
 galaxies like our own Milky Way. My primary research focus is in figuring out how galaxies build different elements. 
@@ -18,12 +18,12 @@ essential to fully understand the physics of galaxy formation and evolution.
 By integrating observational techniques with computer simulations, my research is pushing
 the boundary of observational astronomy.
 
-I am currently a postdoctoral fellow at the [University of New South Wales](https://www.physics.unsw.edu.au/staff/anshu-gupta), Sydney. 
-I did my graduate studies (2018) at Australian National University, Canberra with Prof. Lisa Kewley and Dr. Tiantian Yuan. 
+I am currently a postdoctoral fellow at the University of New South Wales ([UNSW](https://www.physics.unsw.edu.au/staff/anshu-gupta)), Sydney. 
+I did my graduate studies (2018) at Australian National University (ANU), Canberra with Prof. Lisa Kewley and Dr. Tiantian Yuan. 
 I grew up in India, where I did a dual bachelors and masters degree in Physics at 
 one of the highly prestigious schools for undergraduate science education, Indian Institute of Science Education and Research, Mohali.  
 
-My other passion is baking. A [multiseed sourdough bread](https://anshu02gupta.github.io/others/) is the highlight 
+My other passion is baking. A [multiseed sourdough bread](https://anshu02gupta.github.io/hobbies/) is the highlight 
 from my recent baking adventures.   
 
 
