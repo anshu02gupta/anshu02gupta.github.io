@@ -19,7 +19,7 @@ essential to fully understand the physics of galaxy formation and evolution.
 By integrating observational techniques with computer simulations, my research is pushing
 the boundary of observational astronomy.
 
-I am currently a postdoctoral fellow at the University of New South Wales ([UNSW](https://www.physics.unsw.edu.au/staff/anshu-gupta)), Sydney. 
+I am currently a postdoctoral fellow at the University of New South Wales ([UNSW](https://www.physics.unsw.edu.au/staff/anshu-gupta)), Sydney with Prof. Kim-Vy Tran. 
 I did my graduate studies (2018) at Australian National University ([ANU](https://anu.edu.au/)), Canberra with Prof. Lisa Kewley and Dr. Tiantian Yuan. 
 I grew up in India, where I did a dual bachelors and masters degree in Physics at
 [Indian Institute of Science Education and Research, Mohali](http://www.iisermohali.ac.in/).  
