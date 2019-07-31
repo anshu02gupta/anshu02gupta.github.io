@@ -1,6 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 layout: home
+navigation_weight: 1
 ---
 
 ![Some Title](/images/profile01.jpg){:style="float:right;  margin-left:7px; margin-right:7px; margin-top:7px;" :height="200px" width="200px"}
