@@ -1,20 +1,20 @@
 ---
 layout: page
-title: "Outreach"
+title: "Media Highlights"
 permalink: /outreach/
 navigation_weight: 4
 ---
-**1. [Astronomer in residence, Uluru](../astronomer_in_residence.pdf)** <br/>
 
-I was part of [ASTRO3D](https://astro3d.org.au/) funded 
-[astronomer in residence](https://www.ayersrockresort.com.au/events/detail/astronomer-in-residence-program) 
-program at Ayers Rock resort deep within the Australian outback near Uluru. 
-I spent my days educating kids and adults from all walks life about astronomy 
-and Australia's role in it. The sense of wonder and amazement that astronomy inspires in eyes of people 
-irrespective of background and knowledge is a sight to behold. I spent the nights listening to aboriginal stories about the 
-Giant Emu in the sky at one of the best sites in the world for night sky viewing. 
+My paper on how massive galaxies assemble most of their mass after z<3 via mergers was released in the press by [ASTRO3D](https://astro3d.org.au/) and UNSW
+titled [*Hungry galaxies grow fat on the flesh of their neighbours*](https://astro3d.org.au/hungry-galaxies-grow-fat-on-the-flesh-of-their-neighbours/).
 
-![Uluru](/images/IMG_5338.JPG){:height="250px" width="900px"}
+The press release received wide media attention by many science and popular science websites. 
 
-|![Astronomer in residence, Uluru](/images/IMG_5312.JPG){:height="250px" width="450px"}|![Astronomer in residence, Uluru](/images/IMG_5317.JPG){:height="250px" width="450px"}|
-
+[Heritage Daily](https://www.heritagedaily.com/2020/04/hungry-galaxies-grow-fat-on-the-flesh-of-their-neighbours/127821),
+[Cosmos](https://cosmosmagazine.com/space/do-hungry-galaxies-eat-their-neighbours),
+[Phys Org](https://phys.org/news/2020-04-hungry-galaxies-fat-flesh-neighbours.html),
+[NanoWerk](https://www.nanowerk.com/news2/space/newsid=54987.php),
+[CNet](https://www.cnet.com/news/monster-cannibal-galaxies-have-constant-case-of-the-cosmic-munchies/),
+[Mirage](https://www.miragenews.com/hungry-galaxies-grow-fat-on-flesh-of-their-neighbours/),
+[Sci News](http://www.sci-news.com/astronomy/growth-massive-galaxies-08354.html), 
+and [IFLScience!](https://www.iflscience.com/space/galaxies-grow-bigger-by-snacking-on-their-smaller-neighbors/) 
