@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research Projects"
+title: "Research"
 permalink: /research/
 navigation_weight: 2
 ---

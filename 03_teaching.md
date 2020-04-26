@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Media Highlights"
-permalink: /outreach/
+title: "News"
+permalink: /news/
 navigation_weight: 4
 ---
 

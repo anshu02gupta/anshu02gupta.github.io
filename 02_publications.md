@@ -6,20 +6,21 @@ navigation_weight: 3
 ---
 [Click here for full ADS Library](https://ui.adsabs.harvard.edu/public-libraries/2Ylg6zzsT9m5-KfpX_s12A)
 
+0. Tran, K.-V. H.,  Forrest, B., Alcorn, L. Y., Yuan, T.,  Nanayakkara, T.,   Cohn, J., Cowley, M.,   Glazebrook, K., 
+**Gupta, A.**, Kacprzak, G. G.,  Kewley, L., Labb\'{e}, I., Papovich, C., Spitler, L. R., Straatman, C. M., in  press, The Astrophysical Journal,
+ *MOSEL: Strong [OIII]5007\AA\ Emitting Galaxies at (3<z<4) from the ZFOURGE Survey}*
+
+
+0. **Gupta, A.**, Tran, K.-V. H.,   Cohn, J.,  Alcorn, L. Y., Harshan, A.,  Yuan, T.,  Rodriguez-Gomez, V., Kewley, L.,
+ Forrest, B.,  Glazebrook, K., Straatman, C. M., Kacprzak, G. G.,  Nanayakkara, T.,   Labb\'{e}, I., 
+ Papovich, C., Cowley, M., 2020, [The Astrophysical Journal](https://iopscience.iop.org/article/10.3847/1538-4357/ab7b6d), 893, 23,
+ *MOSEL survey: Growth of massive galaxies transitions from  in situ to ex situ at z<3*, 
+ [ArXiV](https://arxiv.org/abs/2003.01725)
+
 0. Harshan, A.,  **Gupta, A.**, Alcorn, L. Y., Tran, K.-V. H.,  Alcorn, L. Y., Yuan, T., 
 Kacprzak, G. G., Kewley, L.,  Glazebrook, K.,  Labb\'{e}, I.,  Nanayakkara, T., Papovich, C., Spitler, L. R.,  S
 traatman, C. M., 2020, [The Astrophysical Journal](https://iopscience.iop.org/article/10.3847/1538-4357/ab76cf),  892,  77
 *Measuring electron density with [OII] as a function of environment z=1.62*, [ArXiV](https://arxiv.org/abs/2002.08353)
-
-0. **Gupta, A.**, Tran, K.-V. H.,   Cohn, J.,  Alcorn, L. Y., Harshan, A.,  Yuan, T.,  Rodriguez-Gomez, V., Kewley, L.,
- Forrest, B.,  Glazebrook, K., Straatman, C. M., Kacprzak, G. G.,  Nanayakkara, T.,   Labb\'{e}, I., 
- Papovich, C., Cowley, M., 2020, [The Astrophysical Journal](https://iopscience.iop.org/article/10.3847/1538-4357/ab7b6d), 883, 23,
- *MOSEL survey: Growth of massive galaxies transitions from  in situ to ex situ at z<3*, 
- [ArXiV](https://arxiv.org/abs/2003.01725)
-
-0. Tran, K.-V. H.,  Forrest, B., Alcorn, L. Y., Yuan, T.,  Nanayakkara, T.,   Cohn, J., Cowley, M.,   Glazebrook, K., 
-**Gupta, A.**, Kacprzak, G. G.,  Kewley, L., Labb\'{e}, I., Papovich, C., Spitler, L. R., Straatman, C. M., in  press, The Astrophysical Journal,
- *MOSEL: Strong [OIII]5007\AA\ Emitting Galaxies at (3<z<4) from the ZFOURGE Survey}*
 
 0. Alcorn, L. Y., **Gupta, A.**, Tran, K.-V. H.,  Cohn, J., Forrest, B.,  Glazebrook, K., 
 Harshan, A., Kacprzak, G. G.,  Kewley, L., Labb\'{e}, I., Nanayakkara, T., Papovich, C., Spitler, L. R., 
