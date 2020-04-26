@@ -8,8 +8,11 @@ navigation_weight: 4
 My paper on how massive galaxies assemble most of their mass after z<3 via mergers was released in the press by [ASTRO3D](https://astro3d.org.au/) and UNSW
 titled [*Hungry galaxies grow fat on the flesh of their neighbours*](https://astro3d.org.au/hungry-galaxies-grow-fat-on-the-flesh-of-their-neighbours/).
 
-The press release received wide media attention by many science and popular science websites. 
+[![Hungry galaxies grow fat on the flesh of their neighbours](/images/massive_galaxy.jpg){:height="500px" width="900px"}](https://astro3d.org.au/hungry-galaxies-grow-fat-on-the-flesh-of-their-neighbours/).
 
+
+
+The press release received wide media attention by many science and popular science websites such as
 [Heritage Daily](https://www.heritagedaily.com/2020/04/hungry-galaxies-grow-fat-on-the-flesh-of-their-neighbours/127821),
 [Cosmos](https://cosmosmagazine.com/space/do-hungry-galaxies-eat-their-neighbours),
 [Phys Org](https://phys.org/news/2020-04-hungry-galaxies-fat-flesh-neighbours.html),
