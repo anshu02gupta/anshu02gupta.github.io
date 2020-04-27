@@ -7,7 +7,10 @@ navigation_weight: 5
 
 
 
-***[Astronomer in residence, Uluru](../astronomer_in_residence.pdf)*** <br/>
+
+
+[![Some Title](/astronomer_in_residence_poster.jpg){:style="float:right;  margin-left:7px; margin-right:7px; margin-top:7px;" :height="200px" width="200px"}](../astronomer_in_residence.pdf)
+***[ASTRO3D - Astronomer in residence, Uluru](https://www.ayersrockresort.com.au/events/detail/astronomer-in-residence-program)*** <br/>
 
 I was part of [ASTRO3D](https://astro3d.org.au/) funded 
 [astronomer in residence](https://www.ayersrockresort.com.au/events/detail/astronomer-in-residence-program) 
