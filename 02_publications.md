@@ -8,7 +8,7 @@ navigation_weight: 3
 
 0. Tran, K.-V. H.,  Forrest, B., Alcorn, L. Y., Yuan, T.,  Nanayakkara, T.,   Cohn, J., Cowley, M.,   Glazebrook, K., 
 **Gupta, A.**, Kacprzak, G. G.,  Kewley, L., Labb\'{e}, I., Papovich, C., Spitler, L. R., Straatman, C. M., in  press, The Astrophysical Journal,
- *MOSEL: Strong [OIII]5007\AA\ Emitting Galaxies at (3<z<4) from the ZFOURGE Survey}*
+ *MOSEL: Strong [OIII]5007\AA\ Emitting Galaxies at (3<z<4) from the ZFOURGE Survey*
 
 
 0. **Gupta, A.**, Tran, K.-V. H.,   Cohn, J.,  Alcorn, L. Y., Harshan, A.,  Yuan, T.,  Rodriguez-Gomez, V., Kewley, L.,
