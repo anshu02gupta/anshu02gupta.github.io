@@ -5,12 +5,18 @@ permalink: /outreach/
 navigation_weight: 5
 ---
 
+### Outreach talks
 
-### [Sydney City Skywatcher](https://www.sydneycityskywatchers.org/)
+[\\]: Sutherland Astronomical Society on 3rd September, 2020 Talked to astronomy enthusiasts at Sydney City Skywatcher in June 2020 about the flow of metals through cosmic web.
 
-Talked to astronomy enthusiasts at Sydney City Skywatcher in June 2020 about the flow of metals through cosmic web.
 
-![Talk at Sydney Observatory](/images/Anshu_talk_200531.jpg){:style="float:middle;  margin-left:7px; margin-right:7px; margin-top:7px;" :height="300px" width="600px"}
+
+[\\]: ### [Sydney City Skywatcher](https://www.sydneycityskywatchers.org/)
+
+Talked to astronomy enthusiasts at [Sydney City Skywatcher](https://www.sydneycityskywatchers.org/) in June 2020 and [Sutherland Astronomical Society](http://www.sasi.net.au/) in September, 2020 about the flow of metals through cosmic web.
+
+
+|![Talk at Sydney Observatory](/images/Anshu_talk_200531.jpg){:style="float:middle;  margin-left:7px; margin-right:7px; margin-top:7px;" :height="200px" width="400px"} | ![Talk at Sutherland Astronomical Society](/images/sutherland_observatory_talk.jpg){:style="float:middle;  margin-left:7px; margin-right:7px; margin-top:7px;" :height="200px" width="400px"}|
 
 ### [ASTRO3D - Astronomer in residence, Uluru](https://www.ayersrockresort.com.au/events/detail/astronomer-in-residence-program)
 [![Some Title](/images/astronomer_in_residence_poster.jpg){:style="float:right;  margin-left:7px; margin-right:7px; margin-top:7px;" :height="200px" width="200px"}](../astronomer_in_residence.pdf)
