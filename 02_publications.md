@@ -6,6 +6,16 @@ navigation_weight: 3
 ---
 [Click here for full ADS Library](https://ui.adsabs.harvard.edu/public-libraries/2Ylg6zzsT9m5-KfpX_s12A)
 
+0. Foster, C., Mendel, J. T., Lagos, C. D. P., Wisnioski, E., Yuan, T., ... **Gupta, A.**, .., 
+Monthly Notices of the Royal Astronomical Society, submitted,
+ *The MAGPI Survey -- science goals, design, observing strategy and early results*, 
+ [ArXiV](https://arxiv.org/abs/2011.13567)
+ 
+0. **Gupta, A.**, Tran, K.-V. H., Pillepich A.,    Yuan, T.,  Harshan, A., Rodriguez-Gomez, V., 
+Genel, S., The Astrophysical Journal, in press,
+ *MOSEL and IllustrisTNG: Massive Extended Galaxies at z=2 Quench Later Than Normal-size Galaxies*, 
+ [ArXiV](https://arxiv.org/abs/2011.08198)
+
 0. Tran, K.-V. H.,  Forrest, B., Alcorn, L. Y., Yuan, T.,  Nanayakkara, T.,   Cohn, J., Cowley, M.,   Glazebrook, K., 
 **Gupta, A.**, Kacprzak, G. G.,  Kewley, L., Labb\'{e}, I., Papovich, C., Spitler, L. R., Straatman, C. M., in  press, The Astrophysical Journal,
  *MOSEL: Strong [OIII]5007\AA\ Emitting Galaxies at (3<z<4) from the ZFOURGE Survey*

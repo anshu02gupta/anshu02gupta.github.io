@@ -5,34 +5,45 @@ permalink: /research/
 navigation_weight: 2
 ---
 
-### MOSEL Survey: Properties of 12 billion year old galaxies  
+### [MOSEL Survey: Properties of 12 billion year old galaxies](https://sites.google.com/view/moselsurvey/home)  
 
-**1. Kinematics of massive galaxies** <br/>
-Galaxies at z~3.0 lie at an important juncture in the rise and fall of cosmic star formation density.
-The strong burst of star formation at z~3.0 is required to explain the appearance of massive galaxies 
-with suppressed star formation rates at z<3.0. 
-I am using the MOSFIRE spectroscopic data to analyse the kinematic properties of star-forming galaxies at z~3
-from MOSEL survey. By comparing with cosmological simulations I am finding a transition in the primary growth mechanism of 
-massive galaxies between z=3 to z=2. 
+**1. Epoch of Reionisation through cosmic noon analogues** <br/>
+The Epoch of Reionisation (EoR) is a key phase transition in our Universe's history, 
+where it went from neutral to fully ionised. We will build a benchmark sample of EoR analogues 
+of super star-forming dwarf galaxies at z=3-4 to estimate the production efficiency of 
+ionising radiation and their escape fraction in the "first galaxies". Gupta+2021 in prep. 
 
-**2. Outflows in dwarf galaxies at z~3**<br/>
-The star formation effciency of galaxies across 12 Gyrs is uniformly low at ~ 1%, and galactic-scale gas out
-flows might be responsible. From the ZFOURGE survey, we have identified "first burst" galaxies with blended
-Hb+[OIII] Equivalent Widths (EW) > 600 Angstroms (~ 3 times larger than EW of a typical star-forming galaxy at
-z > 3). With stellar mass down to log(M*) ~ 8.5 and extreme emission lines, these dwarf galaxies are
-ideal for testing various supernovae prescriptions. I have been awarded 3 nights on KMOS/VLT to quantify 
- outflow properties in these nascent galaxies. These galaxies are ideal progenitors of galaxies responsible for 
- reionization of the universe. 
+![EOR](/images/eor_analogs.png){:height="250px" width="900px"} 
+
+**2. Mass assembly history of massive galaxies** <br/>
+Our current cosmological paradigm says that galaxies initially build up their stellar disk through 
+in situ star formation, but at some point mergers take over. After that, most stellar mass 
+is accreted from other galaxies. Our observations show that this transition for massive 
+galaxies happens between z=2-3. Please see [Gupta+2020a](https://arxiv.org/abs/2003.01725) 
+for more details. 
  
+![Mass assembly history of massive galaxies](/images/mass_assembly.png){:height="200px" width="900px"} 
+
+
+<!---
+Outflows in dwarf galaxies at z~3 The star formation effciency of galaxies across 12 Gyrs is uniformly low at ~ 1%, and galactic-scale gas outflows might be responsible. 
+From the ZFOURGE survey, we have identified "first burst" galaxies with blended.
+Hb+[OIII] Equivalent Widths (EW) > 600 Angstroms (~ 3 times larger than EW of a typical star-forming galaxy at (z > 3). 
+With stellar mass down to log(M*) ~ 8.5 and extreme emission lines, these dwarf galaxies are
+ideal for testing various supernovae prescriptions. I have been awarded 3 nights on KMOS/VLT to quantify 
+outflow properties in these nascent galaxies. These galaxies are ideal progenitors of galaxies responsible for 
+reionization of the universe. 
+ 
+ --->
 
 ### Chemical evolution in dense environment 
  
-**3. Self-enrichment versus enrichment via accretion in dense environment**<br/>
- I use galaxy clusters, which are the largest gravitationally bound systems in the Universe, to understand the impact of 
- baryonic
-processes such as gas removal, gas heating and/or metal accretion on the chemical enrichment histories of galaxies.
-Using the cosmological hydrodynamical simulation IllustrisTNG,
-I find that signs of environment-dependent chemical evolution appear 9 billion years ago, and even before
-galaxies fall onto a large-scale cluster halo. I plan to use IllustrisTNG simulations to quantify 
-the role of self-enrichment versus enrichment via accretion
-of metal-rich gas in the chemical evolution of cluster galaxies. 
+Galaxy clusters are the largest gravitationally bound systems in the Universe. Baryonic
+processes such as gas removal, gas heating and/or gas accretion makes the galaxy evolution in cluster environment really complex.
+I use observations and the cosmological hydrodynamical simulation IllustrisTNG to study chemical evolution in cluster
+environment. Our research shows that signs of environment-dependent chemical evolution appear 9 billion years ago, and even before
+galaxies fall onto a large-scale cluster halo. Please see 
+Gupta+[2016](https://arxiv.org/abs/1608.06289), [2017](https://arxiv.org/abs/1705.08452), [2018](https://arxiv.org/abs/1801.03500) and 
+Alcorn, Gupta+[2019](https://arxiv.org/abs/1908.07057).
+
+![Environmental effects](/images/environmental_effects.jpeg){:height="400px" width="600px"} 
