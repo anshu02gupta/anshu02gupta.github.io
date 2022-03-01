@@ -12,11 +12,10 @@ from some of the largest telescopes in the world such as Keck in Hawaii and VLTs
 and combine them with the state-of-the-art cosmological simulationsand theoretical models, which is 
 essential to fully understand the physics of galaxy formation and evolution.
 
-I am a postdoctoral fellow at the University of New South Wales ([UNSW](https://www.physics.unsw.edu.au/staff/anshu-gupta)), Sydney with Prof. Kim-Vy Tran. 
+I am an ASTRO3D fellow at the Curtin Institute of Radio Astronomy, Perth ([CIRA](https://staffportal.curtin.edu.au/staff/profile/view/anshu-gupta-55ba041d/)). Before this I was a postdoctoral fellow at the University of New South Wales ([UNSW](https://www.physics.unsw.edu.au/staff/anshu-gupta)), Sydney with Prof. Kim-Vy Tran. 
 I did my graduate studies (2018) at the Australian National University ([ANU](https://anu.edu.au/)), Canberra with Prof. Lisa Kewley and Dr. Tiantian Yuan. 
 
-I am currently leading [The MOSEL survey](https://sites.google.com/view/moselsurvey/home), which aims to understand
-the rise and fall of star formation in 12 billion year old galaxies.
+I am currently leading [The MOSEL survey](https://sites.google.com/view/moselsurvey/home), which aims to study the detailed physical properperties of the Epoch of reionisation analogs at z~3.
 
 [![MOSEL ](/images/mosel_logo.png){:height="200px" width="200px"} ](https://sites.google.com/view/moselsurvey/home)
 
